@@ -1,0 +1,4 @@
+anonymous-func
+named-func
+interface-handler
+test-handler
